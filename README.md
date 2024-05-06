@@ -1,8 +1,12 @@
 ZCU104 Ubuntu Boot Instructions
+
 -----------------------------------------------------------------------------------------
 Board name : Zynq UltraScale+ MPSoC ZCU104
+
 Part number : xczuc7ev-2ffvc1156
+
 Tools : Petalinux 2023.2 #you can use other version.
+
 Ubuntu : 20.04 // you can use other version make sure it comaptible with petalinux
 *******************************************************************************************************************
 Follow the following steps to create images and bin files required to boot board
